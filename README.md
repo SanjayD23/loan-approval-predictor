@@ -35,4 +35,8 @@ cd loan-prediction-app
 pip install -r requirements.txt
 python app.py
 
+Here is the Ui of how Loan Approval Predictor looks like
+
+[image](https://github.com/user-attachments/assets/6cea9814-9d3a-47b6-94aa-b897d0174e00)
+
 
