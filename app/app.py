@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Load model
-model = joblib.load("../model/loan_model.pkl")
+model = joblib.load("model/loan_model.pkl")
 
 # Prediction function
 def predict_loan(gender, married, dependents, education, self_employed,
