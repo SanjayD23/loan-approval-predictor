@@ -24,6 +24,7 @@ A simple machine learning web app to predict whether a loan application will be 
 - Libraries: scikit-learn, pandas, numpy
 - Dataset: [Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 - Accuracy: ~78% on test data
+- If your loan is accepted it will show ✅ Approved else it will show ❌ Not Approved
 ---
 
 ## 🛠️ Setup Instructions
@@ -35,8 +36,6 @@ cd loan-prediction-app
 pip install -r requirements.txt
 python app.py
 
-Here is the Ui of how Loan Approval Predictor looks like
 
-![image](https://github.com/user-attachments/assets/6cea9814-9d3a-47b6-94aa-b897d0174e00)
 
 
