@@ -1,15 +1,3 @@
-#!/usr/bin/env python3
-"""
-Gradio app for Loan Approval Predictor (Hugging Face Spaces)
-
-This app reproduces the preprocessing used in notebook/notebook/model_training.ipynb by
-loading the training CSV (data/train.csv) to rebuild LabelEncoders and the imputing
-statistics (modes/median). It then loads the trained model from model/loan_model.pkl
-and exposes a small UI for making predictions.
-
-Place this file at the repository root (app.py) and ensure `model/loan_model.pkl`
-and `data/train.csv` are present in the repo. Requirements: gradio, pandas, numpy, joblib, scikit-learn
-"""
 
 from pathlib import Path
 import joblib
