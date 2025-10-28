@@ -4,7 +4,7 @@ A simple machine learning web app to predict whether a loan application will be 
 ---
 
 ## 🚀 Live Demo
-🔗 [Click to Try the App](https://huggingface.co/spaces/Sanjay0123456/loan-approval-predictor)
+🔗 [Click to Try the App](https://huggingface.co/spaces/Sanjay0123456/loan-approval-prediction)
 ---
 
 ## 📊 Features
